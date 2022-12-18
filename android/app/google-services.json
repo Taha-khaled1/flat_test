@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "33338901796",
+    "project_id": "turkey-67cb7",
+    "storage_bucket": "turkey-67cb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33338901796:android:331932e3e93a1d24d21fb1",
+        "android_client_info": {
+          "package_name": "com.turkey_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33338901796-6fer3dlaemo8n2r31k2hn1km2a9uocsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turkey_delivery_app",
+            "certificate_hash": "2444b626ef0700d20d147dc3d4e7c4cf2d35008b"
+          }
+        },
+        {
+          "client_id": "33338901796-vt9dbfj2a3dkq5sehmjope4amj0tgifv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turkey_delivery_app",
+            "certificate_hash": "740fdf63768d822f7f1a140d8d9d56e23facb8af"
+          }
+        },
+        {
+          "client_id": "33338901796-ohn709smt8495o5nf0erolfcmad4se1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgMfpI7RT2tiJDQVZNARX985d7mIyOdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33338901796-ohn709smt8495o5nf0erolfcmad4se1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
